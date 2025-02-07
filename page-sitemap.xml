@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -21,83 +24,83 @@
 	</url>
 	<url>
 		<loc>/layton/</loc>
-		<lastmod>2025-02-06T01:32:02+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ogden/</loc>
-		<lastmod>2025-02-06T01:32:01+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/st-george/</loc>
-		<lastmod>2025-02-06T01:32:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/west-jordan/</loc>
-		<lastmod>2025-02-06T01:32:00+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/orem/</loc>
-		<lastmod>2025-02-06T01:32:00+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sandy/</loc>
-		<lastmod>2025-02-06T01:32:00+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/provo/</loc>
-		<lastmod>2025-02-06T01:31:59+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/saratoga-springs/</loc>
-		<lastmod>2025-02-06T01:31:59+00:00</lastmod>
+		<loc>/west-jordan/</loc>
+		<lastmod>2025-02-07T00:04:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/west-valley-city/</loc>
-		<lastmod>2025-02-06T01:31:58+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/saratoga-springs/</loc>
+		<lastmod>2025-02-07T00:04:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cedar-city/</loc>
-		<lastmod>2025-02-06T01:31:58+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pleasant-grove/</loc>
-		<lastmod>2025-02-06T01:31:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/lehi/</loc>
-		<lastmod>2025-02-06T01:31:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/taylorsville/</loc>
-		<lastmod>2025-02-06T01:31:57+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/spanish-fork/</loc>
-		<lastmod>2025-02-06T01:31:57+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bountiful/</loc>
-		<lastmod>2025-02-06T01:31:56+00:00</lastmod>
+		<loc>/taylorsville/</loc>
+		<lastmod>2025-02-07T00:04:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lehi/</loc>
+		<lastmod>2025-02-07T00:04:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/riverton/</loc>
-		<lastmod>2025-02-06T01:31:56+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/logan/</loc>
-		<lastmod>2025-02-06T01:31:55+00:00</lastmod>
+		<loc>/bountiful/</loc>
+		<lastmod>2025-02-07T00:04:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/murray/</loc>
-		<lastmod>2025-02-06T01:31:55+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/draper/</loc>
-		<lastmod>2025-02-06T01:31:55+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/logan/</loc>
+		<lastmod>2025-02-07T00:04:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/salt-lake-city/</loc>
-		<lastmod>2025-02-06T01:31:54+00:00</lastmod>
+		<lastmod>2025-02-07T00:04:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
